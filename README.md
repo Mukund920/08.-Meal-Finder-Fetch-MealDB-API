@@ -35,3 +35,6 @@ cd meal-finder
 ## Dependencies
 - Font Awesome: For search and random icons.
 - TheMealDB API: For fetching meal data
+
+## Searching A Meal, Getting A Recipe and Random Recipe
+![Meal finder](https://github.com/user-attachments/assets/71cdde6f-f7d6-4521-a18b-249a0c191325)
