@@ -8,19 +8,6 @@ Meal Finder is a web application that allows users to search for meals and view 
 - Get a random meal suggestion.
 - Responsive design that works on various screen sizes.
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/meal-finder.git
-```
-
-2. Navigate to the project directory:
-cd meal-finder
-
-3. Open index.html in your web browser to view the application.
-
 ## Usage
 1. Type a meal name or keyword in the search bar and click the search button.
 2. Click on a meal from the search results to view detailed information.
